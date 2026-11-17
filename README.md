@@ -14,7 +14,7 @@ Die Testseite enthält ein responsives Layout, angepasste Bootstrap-Farben und I
 Repository von GitHub klonen:
 
 ```bash
-git clone https://github.com/DEIN-NAME/DEIN-REPOSITORY.git NPM_Uebung
+git clone https://github.com/JuliusStundner/NPM_Uebung.git NPM_Uebung
 cd NPM_Uebung
 ```
 
